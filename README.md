@@ -1,4 +1,4 @@
-# 🛰️ OSPF Protocol Simulator
+# OSPF Protocol Simulator
 
 A visually interactive **OSPF (Open Shortest Path First)** network simulator built using **Python (Tkinter + Dijkstra’s Algorithm)**.
 Design, visualize, and simulate dynamic shortest-path routing between routers in real time.
@@ -7,15 +7,10 @@ Design, visualize, and simulate dynamic shortest-path routing between routers in
 
 ## Overview
 
-This project simulates the **OSPF routing protocol**, which is widely used in real-world networking to find the shortest path between routers dynamically.
-The simulator provides an intuitive GUI to:
-
 * Add routers and connect them with customizable link costs
 * Run OSPF to compute shortest paths using **Dijkstra’s algorithm**
 * Display all routers’ **routing tables**
 * Visually highlight the **shortest path** between any two routers
-
-All this in a **modern dark-themed interface**.
 
 ---
 
@@ -103,5 +98,3 @@ That’s it! The GUI window should launch instantly.
 ## 📜 License
 
 This project is open-source and available under the **MIT License**.
-
----
