@@ -21,6 +21,8 @@ All this in a **modern dark-themed interface**.
 
 ## 🖼️ Demo Preview
 
+https://github.com/user-attachments/assets/1633abf5-3d90-4e12-a0f9-4813fc26ef25
+
 
 ---
 
